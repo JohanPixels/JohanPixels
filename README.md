@@ -3,7 +3,7 @@
 Full-Stack Developer from Colombia specializing in automation, data pipelines, and web applications. Actively seeking remote opportunities.
 
 🌐 **Portfolio:** [johandavid.me](https://johandavid.me)  
-💼 **LinkedIn:** [/in/johandavidmunoz](https://linkedin.com/in/johan-david-munoz)  
+💼 **LinkedIn:** [/in/johan-david-munoz](https://linkedin.com/in/johan-david-munoz)  
 📧 **Email:** johan.munozt@gmail.com  
 📍 **Location:** Colombia (GMT-5) | Open to Americas/Europe timezones
 
@@ -75,17 +75,9 @@ Integrated system for inventory, recipes, costs, and sales tracking.
 - 70% reduction in administrative time
 - **Tech:** React, Next.js, Tailwind CSS, localStorage
 
-### 🏃 Fast Training
+### ⚽ Fast Training
 Soccer training app automating workout plan creation and players progress tracking.
 - **Tech:** Flutter, Next.js, JavaScript, PostgreSQL
-
----
-
-## 📊 GitHub Stats
-
-![Johan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanPixels&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanPixels&layout=compact&theme=default&hide_border=true)
 
 ---
 
@@ -101,7 +93,7 @@ Soccer training app automating workout plan creation and players progress tracki
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://johandavid.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/johandavidmunoz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/johan-david-munoz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johan.munozt@gmail.com)
 
 ---
