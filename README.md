@@ -14,7 +14,7 @@ Full-Stack Developer from Colombia specializing in automation, data pipelines, a
 - 🎓 Software Development Technology Graduate (SENA - Colombia)
 - 💼 Built production ETL systems at Sucro processing 30,000+ daily records
 - 🔭 Currently building: Bakery management system + sports training app
-- 🌱 Learning: AI integration, cloud architecture, business fundamentals
+- 🌱 Learning: AI integration, business fundamentals
 - 🎯 Goal: Contribute to remote teams building impactful solutions
 
 ---
@@ -53,9 +53,9 @@ Full-Stack Developer from Colombia specializing in automation, data pipelines, a
 
 ## 🔧 Professional Experience
 
-**Software Developer @ Sucro** | *May 2024 - Nov 2024*
+**Software Developer @ Sucroal** | *May 2025 - Nov 2025*
 - Built automated ETL pipeline for SAP-to-SQL Server data extraction
-- Designed system to process 30,000+ daily records, eliminating 4+ hours of manual work
+- Designed system to process 30,000+ daily records, eliminating 10+ hours of manual work monthly
 - Delivered production-ready code with comprehensive documentation
 - **Stack:** Python, SAP GUI Scripting, SQL Server, Windows COM
 
@@ -65,7 +65,7 @@ Full-Stack Developer from Colombia specializing in automation, data pipelines, a
 
 ### 🔄 [SAP ETL Automation Pipeline](https://johandavid.me#projects)
 Production-ready system that automates enterprise data extraction and transformation.
-- Designed to reduce manual work from 4 hours to 12 minutes
+- Designed to reduce manual work from 10+ hours to 1 hour monthly
 - Handles 30,000+ records daily with zero manual intervention
 - **Tech:** Python, SQL Server, SAP GUI, Pandas
 
@@ -73,7 +73,7 @@ Production-ready system that automates enterprise data extraction and transforma
 Integrated system for inventory, recipes, costs, and sales tracking.
 - Real-time financial reporting and automated cost calculations
 - 70% reduction in administrative time
-- **Tech:** React, Next.js, Tailwind CSS, localStorage
+- **Tech:** React, Next.js, Tailwind CSS, localStorage, Node.js, PostgreSQL
 
 ### ⚽ Fast Training
 Soccer training app automating workout plan creation and players progress tracking.
