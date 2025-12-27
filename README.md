@@ -12,7 +12,7 @@ Full-Stack Developer from Colombia specializing in automation, data pipelines, a
 ## 🚀 About Me
 
 - 🎓 Software Development Technology Graduate (SENA - Colombia)
-- 💼 Built production ETL systems at Sucro processing 30,000+ daily records
+- 💼 Built production ETL systems at Sucroal processing thousands of daily records
 - 🔭 Currently building: Bakery management system + sports training app
 - 🌱 Learning: AI integration, business fundamentals
 - 🎯 Goal: Contribute to remote teams building impactful solutions
@@ -55,7 +55,7 @@ Full-Stack Developer from Colombia specializing in automation, data pipelines, a
 
 **Software Developer @ Sucroal** | *May 2025 - Nov 2025*
 - Built automated ETL pipeline for SAP-to-SQL Server data extraction
-- Designed system to process 30,000+ daily records, eliminating 10+ hours of manual work monthly
+- Designed system to process thousand of daily records, eliminating 17+ hours of manual work monthly
 - Delivered production-ready code with comprehensive documentation
 - **Stack:** Python, SAP GUI Scripting, SQL Server, Windows COM
 
@@ -65,8 +65,12 @@ Full-Stack Developer from Colombia specializing in automation, data pipelines, a
 
 ### 🔄 [SAP ETL Automation Pipeline](https://johandavid.me#projects)
 Production-ready system that automates enterprise data extraction and transformation.
-- Designed to reduce manual work from 10+ hours to 1 hour monthly
-- Handles 30,000+ records daily with zero manual intervention
+- Built automated ETL pipeline for SAP-to-SQL Server data extraction
+- Designed system to process daily data loads, reducing execution time from 30 to 5 minutes (83% reduction)
+- Saves approximately 50 minutes daily of repetitive manual work (~17 hours monthly)
+- Implemented positional column mapping to handle duplicate headers in SAP exports
+- Delivered production-ready code with comprehensive documentation
+- Developed error handling, logging system, and connection pooling for reliability
 - **Tech:** Python, SQL Server, SAP GUI, Pandas
 
 ### 🍞 [Bakery Management System](https://johandavid.me#projects)
